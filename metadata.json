@@ -1,0 +1,7 @@
+{
+  "name": "VividMotion AI Video Studio",
+  "description": "A high-end platform for generating and downloading professional-grade AI videos using Gemini and Veo technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
